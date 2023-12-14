@@ -26,7 +26,7 @@ class student {
     }
 }
 
-public class Studentdatabase {
+public class Database {
 
     public static void main(String [] args) {
 
